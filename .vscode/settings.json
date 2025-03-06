@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "mcpwm_prelude.h": "c",
+        "mcpwm_timer.h": "c",
+        "mcpwm_oper.h": "c",
+        "mcpwm_cmpr.h": "c",
+        "mcpwm_gen.h": "c",
+        "mcpwm_fault.h": "c",
+        "mcpwm_sync.h": "c",
+        "mcpwm_cap.h": "c",
+        "mcpwm_etm.h": "c",
+        "rtc.h": "c",
+        "esp_attr.h": "c",
+        "mcpwm.h": "c",
+        "gpio.h": "c"
+    }
+}
